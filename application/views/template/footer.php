@@ -43,7 +43,7 @@
 					</ul>
 					<ul class="footer__social">
 						<li class="facebook"><a href="https://web.facebook.com/id.ogdang" target="_blank"><i class="icon ion-logo-facebook"></i></a></li>
-						<li class="instagram" target="_blank"><a href="https://www.instagram.com/id.ogdang"><i class="icon ion-logo-instagram"></i></a></li>
+						<li class="instagram" ><a href="https://www.instagram.com/id.ogdang" target="_blank"><i class="icon ion-logo-instagram"></i></a></li>
 						<!-- <li class="twitter"><a href="#"><i class="icon ion-logo-twitter"></i></a></li> -->
 						<li class="youtube"><a href="https://www.youtube.com/channel/UCmUi3a7p_Umn6SJ8Oveg_ZA" target="_blank"><i class="icon ion-logo-youtube" style="color: red"></i></a></li>
 					</ul>
