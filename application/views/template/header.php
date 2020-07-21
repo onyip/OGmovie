@@ -21,11 +21,7 @@
 	<link rel="stylesheet" href="<?=base_url()?>assets/css/main.css">
 
 	<!-- Favicons -->
-	<link rel="icon" type="image/png" href="<?=base_url()?>assets/icon/favicon-32x32.png" sizes="32x32">
-	<link rel="apple-touch-icon" href="<?=base_url()?>assets/icon/favicon-32x32.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="<?=base_url()?>assets/icon/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="<?=base_url()?>assets/icon/apple-touch-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="<?=base_url()?>assets/icon/apple-touch-icon-144x144.png">
+	<link rel="icon" type="image/png" href="<?=base_url()?>assets/icon/icon.png" sizes="32x32">
 
 	<meta name="description" content="">
 	<meta name="keywords" content="OG Movie">

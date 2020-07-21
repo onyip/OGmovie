@@ -10,7 +10,7 @@
 						<div class="header__content">
 							<!-- header logo -->
 							<a href="<?=base_url()?>" class="header__logo">
-								<img src="<?=base_url()?>assets/img/logo.svg" alt="">
+								<img src="<?=base_url()?>assets/img/logo.png" alt="">
 							</a>
 							<!-- end header logo -->
 
