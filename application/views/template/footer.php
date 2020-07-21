@@ -38,14 +38,14 @@
 				<div class="col-12 col-sm-4 col-md-3">
 					<h6 class="footer__title">Contact</h6>
 					<ul class="footer__list">
-						<li><a href="tel:+18002345678">+1 (800) 234-5678</a></li>
-						<li><a href="mailto:support@moviego.com">support@flixgo.com</a></li>
+						<li><a href="https://wa.me/6289669180284" target="_blank">+6289669180284</a></li>
+						<li><a href="mailto:ogdang.id@gmail.com">ogdang.id@gmail.com</a></li>
 					</ul>
 					<ul class="footer__social">
-						<li class="facebook"><a href="#"><i class="icon ion-logo-facebook"></i></a></li>
-						<li class="instagram"><a href="#"><i class="icon ion-logo-instagram"></i></a></li>
-						<li class="twitter"><a href="#"><i class="icon ion-logo-twitter"></i></a></li>
-						<li class="vk"><a href="#"><i class="icon ion-logo-vk"></i></a></li>
+						<li class="facebook"><a href="https://web.facebook.com/id.ogdang" target="_blank"><i class="icon ion-logo-facebook"></i></a></li>
+						<li class="instagram" target="_blank"><a href="https://www.instagram.com/id.ogdang"><i class="icon ion-logo-instagram"></i></a></li>
+						<!-- <li class="twitter"><a href="#"><i class="icon ion-logo-twitter"></i></a></li> -->
+						<li class="youtube"><a href="https://www.youtube.com/channel/UCmUi3a7p_Umn6SJ8Oveg_ZA" target="_blank"><i class="icon ion-logo-youtube" style="color: red"></i></a></li>
 					</ul>
 				</div>
 				<!-- end footer list -->
@@ -53,7 +53,7 @@
 				<!-- footer copyright -->
 				<div class="col-12">
 					<div class="footer__copyright">
-						<small><a target="_blank" href="https://www.templateshub.net">OG dang ID Group</a></small>
+						<small><a target="_blank" href="<?=base_url()?>">OG dang ID Group</a></small>
 
 						<ul>
 							<li><a href="#">	&copy; 2020</a></li>
